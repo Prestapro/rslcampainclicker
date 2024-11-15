@@ -50,7 +50,11 @@ pip3 install pyautogui
 pip3 install random
 
 ### Sponsor this and other projects on Raid Shadows Legend (click on the icon to go)
-[![](https://cdn-icons-png.freepik.com/256/13069/13069101.png =200x)](https://pay.cloudtips.ru/p/e5e68d31)
+<a href="https://pay.cloudtips.ru/p/e5e68d31">
+  <img src="https://cdn-icons-png.freepik.com/256/13069/13069101.png" width="200">
+</a>
 
 ### Спонсировать этот и другие проекты по Raid Shadows Legend (кликнуть по иконке, для перехода)
-[![](https://cdn-icons-png.freepik.com/256/13069/13069101.png =200x)](https://pay.cloudtips.ru/p/e5e68d31)
+<a href="https://pay.cloudtips.ru/p/e5e68d31">
+  <img src="https://cdn-icons-png.freepik.com/256/13069/13069101.png" width="200">
+</a>
