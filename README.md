@@ -50,9 +50,11 @@ pip3 install pyautogui
 pip3 install random
 
 ### Sponsor this and other projects on Raid Shadows Legend (click on the icon to go)
-[![Donate with PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://paypal.me/rslprogamer?country.x=KZ&locale.x=en_US)
+<a href="https://paypal.me/rslprogamer?country.x=KZ&locale.x=en_US">
+  <img src="https://doc.prestapro.ru/rsl/donate_en.png" alt="Donate with PayPal" />
+</a>
 
 ### Спонсировать этот и другие проекты по Raid Shadows Legend (кликнуть по иконке, для перехода)
 <a href="https://pay.cloudtips.ru/p/e5e68d31">
-  <img src="https://cdn-icons-png.freepik.com/256/13069/13069101.png" width="100">
+  <img src="https://doc.prestapro.ru/rsl/donate_en.png" width="100">
 </a>
