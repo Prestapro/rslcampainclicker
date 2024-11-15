@@ -51,10 +51,10 @@ pip3 install random
 
 ### Sponsor this and other projects on Raid Shadows Legend (click on the icon to go)
 <a href="https://pay.cloudtips.ru/p/e5e68d31">
-  <img src="https://cdn-icons-png.freepik.com/256/13069/13069101.png" width="200">
+  <img src="https://cdn-icons-png.freepik.com/256/13069/13069101.png" width="100">
 </a>
 
 ### Спонсировать этот и другие проекты по Raid Shadows Legend (кликнуть по иконке, для перехода)
 <a href="https://pay.cloudtips.ru/p/e5e68d31">
-  <img src="https://cdn-icons-png.freepik.com/256/13069/13069101.png" width="200">
+  <img src="https://cdn-icons-png.freepik.com/256/13069/13069101.png" width="100">
 </a>
