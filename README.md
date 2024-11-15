@@ -56,5 +56,5 @@ pip3 install random
 
 ### Спонсировать этот и другие проекты по Raid Shadows Legend (кликнуть по иконке, для перехода)
 <a href="https://pay.cloudtips.ru/p/e5e68d31">
-  <img src="https://doc.prestapro.ru/rsl/donate_en.png" width="100">
+  <img src="https://doc.prestapro.ru/rsl/donate_ru.png">
 </a>
